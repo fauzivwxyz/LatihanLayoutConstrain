@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LatihanLayoutConstrain</string>
+    <string name="testing">Testing</string>
+    <string name="tekan">TEKAN</string>
+    <string name="pencet">PENCET</string>
+    <string name="sentuh">SENTUH</string>
+</resources>
